@@ -1,0 +1,7 @@
+On The Go is a ride-hailing and ride-sharing app that allows users to request and pay for rides through their mobile devices. The app connects riders with drivers in their area, making it easy and convenient to get around without having to own a car or rely on public transportation.
+
+To use the app, riders simply download it to their mobile device, create an account, and enter their pickup and drop-off locations. They can then choose the type of ride they want, such as a standard car, SUV, or luxury vehicle. Once a driver is assigned to the ride, the rider can track the driver's progress in real-time on the app's map.
+
+On The Go also offers a rating system that allows riders to rate their drivers based on their experience, and vice versa. This helps to ensure that both riders and drivers are held accountable for their behavior and performance.
+
+In addition to standard ride-hailing services, On The Go also offers ride-sharing options, where riders can share a ride with other passengers going in the same direction to save money and reduce emissions.
